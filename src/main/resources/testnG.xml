@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" >
+<!--  parameter name="nameFromExcel2" value="name"></parameter> -->
+  <test name="Test">
+  
+    <packages>
+    <package name="src.qa.test.*"/>
+    </packages>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
