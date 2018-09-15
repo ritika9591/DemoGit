@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class demoTest {
 
 	@Test
-	public void sum(){
+	public void sum2(){
 		int a=10;
 		int b=20;
 		Assert.assertEquals(30,a+b);
